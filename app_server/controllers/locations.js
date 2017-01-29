@@ -44,8 +44,8 @@ module.exports.locationInfo = function(req, res) {
         },
         location: {
             name: 'Select Citywalk',
-            address: 'A-3 District Centre, Saket, Sector 6, Pushp Vihar, New Delhi-110017',
-            rating: 3,
+            address: "A-3 District Centre, Saket, Sector 6, Pushp Vihar, New Delhi-110017",
+            rating: 4,
             facilities: ["Drinks", "Food", "Shopping"],
             coords: {
                 lat: 28.5286024,
